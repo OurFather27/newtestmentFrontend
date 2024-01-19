@@ -1,0 +1,47 @@
+.container-Give{
+	width:80%;
+	height: 300px;
+	background-color: white;
+	opacity: 80%;
+	margin: auto;
+	text-align: center;
+	font-size: 50px;
+	color: #990099;
+	font-family: inherit;
+}
+.Give_contenair {
+	width: 90%;
+	margin: auto;
+	text-align: ;
+	background-color:white;
+	border-radius: 20px;
+
+}
+.Give_contenair_2{
+	width: 90%;
+	margin: auto;
+	text-align: ;
+	color: black;
+	
+}
+
+.Give_contenair h4{
+	text-align: center;
+	margin-top: 0%;
+	color:#990099;
+
+}
+.Give_box_2{
+	width:100%;
+	height: 300px;
+	color: white;
+	font-size: ;
+
+}
+.Give_box{
+	margin-top:;
+}
+.Give_contenair_2 span{
+	color: red;
+	font-weight: 500;
+}

@@ -1,0 +1,36 @@
+.Location_container{
+	width: 80%;
+
+	margin: auto;
+}
+.Location_container iframe{
+	width: 100%;
+}
+/********** Responsive Design ********/
+@media(max-width:900px)
+{
+.Location_container{
+	width: auto;
+}
+.Location_container iframe{
+	width: auto;
+}
+}
+@media(max-width:768px)
+{
+.Location_container{
+	width: 99%;
+}
+.Location_container iframe{
+	width: 99%;
+}
+}
+@media(max-width:568px)
+{
+.Location_container{
+	width: 99%;
+}
+.Location_container iframe{
+	width: 99%;
+}
+}

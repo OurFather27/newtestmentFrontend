@@ -1,0 +1,13 @@
+.logout{
+	right: ;  /* corner lay endehon 0 maderg becha */
+	position: absolute;
+	padding: 5px;
+	font-size: 20px;
+	cursor: pointer;
+	top: 35%;
+
+}
+.logout:hover{
+	color: rgb( 15 26 63);
+	background-color: white;
+}
